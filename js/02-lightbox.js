@@ -32,10 +32,9 @@ gallery.on('show.simplelightbox', function () {
    defaultOptions.captionDelay = 250;
    defaultOptions.showCounter = false;
    defaultOptions.scrollZoom = false;
-   defaultOptions.fadeSpeed = 700;
 })
 
 
-console.log(galleryItems);
+// console.log(galleryItems);
 
 
